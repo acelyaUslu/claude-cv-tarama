@@ -1,0 +1,20 @@
+ZEYNEP DEMİR
+Raporlama Uzmanı
+zeynep.demir@ornekmail.com | 0533 444 55 66
+
+EĞİTİM
+Anadolu Üniversitesi, İşletme (Lisans), 2020
+
+DENEYİM
+Raporlama Uzmanı — Perakende Market Zinciri (2021 – Halen)
+- Tableau ile mağaza bazlı satış raporları hazırlıyorum.
+- MS SQL Server üzerinde SQL ile veri çekip Excel'de pivot analizler yapıyorum.
+
+SERTİFİKALAR
+- Online Python Temelleri kursu (2024) — pandas ile veri okuma ve filtreleme
+
+BECERİLER
+Tableau, SQL, Excel, temel Python
+
+DİLLER
+İngilizce: Orta seviye (okuduğunu anlama)

@@ -1,0 +1,97 @@
+{
+  "_not": "Demo modu için örnek Claude çıktıları. Mehmet Kaya'nın SQL kanıtı bilerek uydurma bırakıldı; sistemin bunu yakalayıp puanı düşürdüğünü göstermek için.",
+  "ilan": {
+    "pozisyon": "Junior Veri Analisti",
+    "kriterler": [
+      {"id": "k1", "ad": "İlgili bölümden lisans", "tur": "zorunlu", "aciklama": "Bilgisayar, istatistik, endüstri müh. veya ilgili bölüm lisansı"},
+      {"id": "k2", "ad": "Python ile veri analizi (pandas)", "tur": "zorunlu", "aciklama": "pandas ile gerçek veri analizi deneyimi"},
+      {"id": "k3", "ad": "SQL", "tur": "zorunlu", "aciklama": "SQL sorgusu yazma deneyimi"},
+      {"id": "k4", "ad": "Teknik İngilizce", "tur": "zorunlu", "aciklama": "Teknik doküman okuyup yazabilecek seviye"},
+      {"id": "k5", "ad": "Power BI / Tableau", "tur": "tercih", "aciklama": "Raporlama aracı deneyimi"},
+      {"id": "k6", "ad": "Temel makine öğrenmesi", "tur": "tercih", "aciklama": "ML proje veya eğitim"},
+      {"id": "k7", "ad": "1+ yıl iş/staj deneyimi", "tur": "tercih", "aciklama": "İlgili alanda en az 1 yıl"}
+    ]
+  },
+  "degerlendirmeler": {
+    "ayse_yilmaz.txt": {
+      "aday_ozeti": "İstatistik mezunu, e-ticarette yaklaşık 1,5 yıldır veri analisti olarak çalışıyor. Python, SQL ve Power BI ile raporlama yapıyor.",
+      "deneyim_yili": 1.7,
+      "degerlendirmeler": [
+        {"kriter_id": "k1", "durum": "evet", "kanit": "Ege Üniversitesi, İstatistik Bölümü (Lisans), 2023", "yorum": "İstatistik lisansı."},
+        {"kriter_id": "k2", "durum": "evet", "kanit": "Python ve pandas ile günlük satış verilerini temizleyip haftalık raporlar hazırladım.", "yorum": "İş ortamında aktif kullanım."},
+        {"kriter_id": "k3", "durum": "evet", "kanit": "PostgreSQL üzerinde SQL sorguları yazarak kampanya performansını analiz ettim.", "yorum": ""},
+        {"kriter_id": "k4", "durum": "evet", "kanit": "İngilizce: B2 (teknik doküman okuma ve yazma)", "yorum": ""},
+        {"kriter_id": "k5", "durum": "evet", "kanit": "Power BI ile yönetim için satış dashboard'u kurdum.", "yorum": ""},
+        {"kriter_id": "k6", "durum": "hayir", "kanit": "", "yorum": "CV'de makine öğrenmesi yok."},
+        {"kriter_id": "k7", "durum": "evet", "kanit": "Veri Analisti — Moda Online A.Ş. (Mart 2024 – Halen)", "yorum": "1,5 yılı aşkın deneyim."}
+      ],
+      "guclu_yonler": ["E-ticaret verisinde doğrudan deneyim", "Python + SQL + Power BI üçlüsü", "Yönetime rapor sunma"],
+      "eksikler": ["Makine öğrenmesi deneyimi yok"],
+      "mulakat_sorulari": [
+        "Power BI dashboard'unda hangi metrikleri izlediniz, bir karar örneği verir misiniz?",
+        "Kampanya analizinde yazdığınız en karmaşık SQL sorgusunu anlatır mısınız?",
+        "Makine öğrenmesi öğrenmeye ilginiz var mı, hangi problemi çözmek isterdiniz?"
+      ]
+    },
+    "mehmet_kaya.txt": {
+      "aday_ozeti": "Yeni mezun bilgisayar mühendisi. Python ve makine öğrenmesi projeleri güçlü, staj deneyimi 3 ay.",
+      "deneyim_yili": 0.25,
+      "degerlendirmeler": [
+        {"kriter_id": "k1", "durum": "evet", "kanit": "Dokuz Eylül Üniversitesi, Bilgisayar Mühendisliği (Lisans), 2025", "yorum": ""},
+        {"kriter_id": "k2", "durum": "evet", "kanit": "Python ile müşteri yorumları üzerinde duygu analizi projesi yaptım (pandas, NLTK).", "yorum": "Proje bazlı."},
+        {"kriter_id": "k3", "durum": "evet", "kanit": "MySQL ile veritabanı sorguları yazdım.", "yorum": "SQL deneyimi var."},
+        {"kriter_id": "k4", "durum": "evet", "kanit": "İngilizce: C1", "yorum": ""},
+        {"kriter_id": "k5", "durum": "hayir", "kanit": "", "yorum": ""},
+        {"kriter_id": "k6", "durum": "evet", "kanit": "Kaggle \"House Prices\" yarışmasında scikit-learn ve XGBoost ile regresyon modeli geliştirdim.", "yorum": ""},
+        {"kriter_id": "k7", "durum": "kismen", "kanit": "Yazılım Stajyeri — TeknoSoft (Haziran 2024 – Ağustos 2024)", "yorum": "3 aylık staj, 1 yılın altında."}
+      ],
+      "guclu_yonler": ["Güçlü makine öğrenmesi projeleri", "İleri seviye İngilizce", "Yazılım geliştirme altyapısı"],
+      "eksikler": ["İş deneyimi kısa", "Raporlama aracı deneyimi yok"],
+      "mulakat_sorulari": [
+        "SQL ile hangi projelerde çalıştınız? Basit bir JOIN sorgusu yazar mısınız?",
+        "Duygu analizi projesinde veriyi nasıl temizlediniz?",
+        "İş verisini yönetime sunmak için hangi görselleştirmeleri kullanırdınız?"
+      ]
+    },
+    "zeynep_demir.txt": {
+      "aday_ozeti": "İşletme mezunu, 4+ yıldır perakendede raporlama uzmanı. Tableau ve SQL'de deneyimli, Python'a yeni başlamış.",
+      "deneyim_yili": 4.5,
+      "degerlendirmeler": [
+        {"kriter_id": "k1", "durum": "kismen", "kanit": "Anadolu Üniversitesi, İşletme (Lisans), 2020", "yorum": "İşletme, ilanda sayılan bölümlerden değil ama ilgili sayılabilir."},
+        {"kriter_id": "k2", "durum": "kismen", "kanit": "Online Python Temelleri kursu (2024) — pandas ile veri okuma ve filtreleme", "yorum": "Sadece kurs düzeyinde."},
+        {"kriter_id": "k3", "durum": "evet", "kanit": "MS SQL Server üzerinde SQL ile veri çekip Excel'de pivot analizler yapıyorum.", "yorum": ""},
+        {"kriter_id": "k4", "durum": "kismen", "kanit": "İngilizce: Orta seviye (okuduğunu anlama)", "yorum": "Yazma belirtilmemiş."},
+        {"kriter_id": "k5", "durum": "evet", "kanit": "Tableau ile mağaza bazlı satış raporları hazırlıyorum.", "yorum": ""},
+        {"kriter_id": "k6", "durum": "hayir", "kanit": "", "yorum": ""},
+        {"kriter_id": "k7", "durum": "evet", "kanit": "Raporlama Uzmanı — Perakende Market Zinciri (2021 – Halen)", "yorum": ""}
+      ],
+      "guclu_yonler": ["Uzun perakende deneyimi", "Tableau ve SQL'de üretim tecrübesi"],
+      "eksikler": ["Python iş ortamında kullanılmamış", "İngilizce yazma belirsiz"],
+      "mulakat_sorulari": [
+        "Python'u şu an hangi işlerde kullanabiliyorsunuz? Kısa bir pandas görevi yapar mısınız?",
+        "Tableau raporlarınız hangi kararlarda kullanıldı?",
+        "İngilizce teknik bir dokümanı özetleyebilir misiniz?"
+      ]
+    },
+    "can_ozturk.txt": {
+      "aday_ozeti": "Yazılım mühendisi, 3+ yıldır frontend geliştirici. Veri analizi deneyimi sınırlı.",
+      "deneyim_yili": 0,
+      "degerlendirmeler": [
+        {"kriter_id": "k1", "durum": "evet", "kanit": "Celal Bayar Üniversitesi, Yazılım Mühendisliği (Lisans), 2022", "yorum": ""},
+        {"kriter_id": "k2", "durum": "hayir", "kanit": "", "yorum": "Python veya pandas yok."},
+        {"kriter_id": "k3", "durum": "hayir", "kanit": "", "yorum": ""},
+        {"kriter_id": "k4", "durum": "kismen", "kanit": "İngilizce: B1", "yorum": ""},
+        {"kriter_id": "k5", "durum": "hayir", "kanit": "", "yorum": ""},
+        {"kriter_id": "k6", "durum": "hayir", "kanit": "", "yorum": ""},
+        {"kriter_id": "k7", "durum": "hayir", "kanit": "", "yorum": "Deneyimi frontend alanında, veri analizinde değil."}
+      ],
+      "guclu_yonler": ["Güçlü yazılım altyapısı", "Analytics verisine ilgi"],
+      "eksikler": ["Python ve SQL yok", "Veri analizi deneyimi yok"],
+      "mulakat_sorulari": [
+        "Veri analizine geçmek için şu ana kadar neler öğrendiniz?",
+        "Google Analytics verisinden çıkardığınız bir içgörüyü anlatır mısınız?",
+        "SQL ve Python öğrenmek için bir planınız var mı?"
+      ]
+    }
+  }
+}

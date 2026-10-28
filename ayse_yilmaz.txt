@@ -1,0 +1,21 @@
+AYŞE YILMAZ
+Veri Analisti
+ayse.yilmaz@ornekmail.com | 0532 111 22 33 | linkedin.com/in/ayseyilmaz-ornek
+
+EĞİTİM
+Ege Üniversitesi, İstatistik Bölümü (Lisans), 2023
+
+DENEYİM
+Veri Analisti — Moda Online A.Ş. (Mart 2024 – Halen)
+- Python ve pandas ile günlük satış verilerini temizleyip haftalık raporlar hazırladım.
+- PostgreSQL üzerinde SQL sorguları yazarak kampanya performansını analiz ettim.
+- Power BI ile yönetim için satış dashboard'u kurdum.
+
+Stajyer Analist — Kargo Lojistik (Temmuz 2023 – Eylül 2023)
+- Excel ve Python ile teslimat sürelerini analiz ettim.
+
+BECERİLER
+Python (pandas, matplotlib), SQL, Power BI, Excel
+
+DİLLER
+İngilizce: B2 (teknik doküman okuma ve yazma)

@@ -1,0 +1,14 @@
+Junior Veri Analisti (İstanbul / Hibrit)
+
+Büyüyen e-ticaret ekibimiz için satış ve müşteri verilerini analiz edecek bir Junior Veri Analisti arıyoruz.
+
+Aranan nitelikler:
+- Bilgisayar, istatistik, endüstri mühendisliği veya ilgili bölümlerden lisans mezunu
+- Python ile veri analizi deneyimi (pandas)
+- SQL ile sorgu yazabilen
+- İngilizce teknik doküman okuyup yazabilen
+
+Tercih sebebi:
+- Power BI veya Tableau ile raporlama deneyimi
+- Temel makine öğrenmesi bilgisi
+- En az 1 yıl iş veya staj deneyimi

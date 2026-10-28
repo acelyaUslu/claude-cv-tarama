@@ -1,0 +1,17 @@
+CAN ÖZTÜRK
+Frontend Geliştirici
+can.ozturk@ornekmail.com | 0544 777 88 99 | github.com/canozturk-ornek
+
+EĞİTİM
+Celal Bayar Üniversitesi, Yazılım Mühendisliği (Lisans), 2022
+
+DENEYİM
+Frontend Geliştirici — Web Ajans (2022 – Halen)
+- React ve TypeScript ile e-ticaret siteleri geliştiriyorum.
+- Google Analytics verilerine bakarak sayfa performansını iyileştirdim.
+
+BECERİLER
+JavaScript, TypeScript, React, HTML, CSS
+
+DİLLER
+İngilizce: B1

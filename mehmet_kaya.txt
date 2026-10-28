@@ -1,0 +1,20 @@
+MEHMET KAYA
+mehmetkaya.ornek@gmail.com | +90 541 222 33 44
+
+EĞİTİM
+Dokuz Eylül Üniversitesi, Bilgisayar Mühendisliği (Lisans), 2025
+
+PROJELER
+- Kaggle "House Prices" yarışmasında scikit-learn ve XGBoost ile regresyon modeli geliştirdim.
+- Python ile müşteri yorumları üzerinde duygu analizi projesi yaptım (pandas, NLTK).
+- Bitirme projesi: Flask ile öğrenci not takip sistemi.
+
+DENEYİM
+Yazılım Stajyeri — TeknoSoft (Haziran 2024 – Ağustos 2024)
+- Python ile REST API servisleri geliştirdim.
+
+BECERİLER
+Python, pandas, scikit-learn, makine öğrenmesi, Git
+
+DİLLER
+İngilizce: C1
